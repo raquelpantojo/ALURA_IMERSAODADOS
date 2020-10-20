@@ -1,0 +1,60 @@
+Participantes,Idade,Altura (cm),Peso (Kg),O peso que você colocou na resposta anterior pode apresentar incerteza maior ou menor que 2Kg?,Você ingeriu café ou energético hoje?,Você faz exercícios físicos? Quantas vezes na semana?,Pressão Arterial (mmHg),IMC
+P1,25,168,67,Não,Não,Nenhum,120x80,24
+P2,26,176,84,Sim,Sim,3,120X80,27
+P3,22,168,63,Sim,Não,4 ou mais,110x60,22
+P4,23,180,79,Não,Chá Mate,1,104x72,24
+P5,65,160,71,Não,Sim,2,120x70,28
+P6,31,170,75,Não,Sim,3,110x70,26
+P7,24,158,59,Não,Não,1,90x60,24
+P8,28,162,75,Não,Não,Nenhum,120x80,29
+P9,19,177,74,Não,Sim,2,140x70,24
+P10,31,178,76,Não,Não,3,120x70,24
+P11,20,165,51,Não,Sim,3,110x60,19
+P1,30,167,55,Não,Sim,1,110x70,20
+P2,28,171,58,Não,Mate,2,120x75,20
+P3,49,153,62,Não,Sim,4 ou mais,100x60,26
+P4,29,165,67,Não,Sim,Nenhum,100x60,25
+P5,26,176,84,,,,,27
+P6,23,180,79,,,,,24
+P7,25,170,67,,,,,23
+P8,25,161,52,Não,Não,4 ou mais,90x60,20
+P9,42,158,73,Não,Sim,4 ou mais,100x60,29
+P10,28,162,75,Não,Não,Nenhum,120x80,29
+P11,22,170,87,Sim,Sim,4 ou mais,110x70,30
+P12,47,167,70,Não,capuccino,4 ou mais,,25
+P13,29,176,96,Sim,Sim,3,130X70,31
+P14,20,164,65,Não,Não,Nenhum,100x60,24
+P15,21,150,42,Não,Sim,1,100x60,19
+P16,33,165,61,Não,Não,Nenhum,100x70,22
+P1,20,165,51,Não,Sim,3,110x60,19
+P2,29,168,81,Não,Sim,3,100x70,29
+P3,29,195,90,Não,Sim,4 ou mais,125x75,24
+P4,56,160,97,Sim,Sim,1,140x80,38
+P5,45,174,83,não,sim,1,110x70,27
+P6,20,177,78,Não,Sim,4 ou mais,130x70,25
+P7,30,163,86,Não,Não,4 ou mais,100x70,32
+P8,27,170,54,Não,Sim,Nenhum,120x70,19
+P9,22,160,"52,4",Não,Sim,3,120x80,20
+P10,21,172,52,Não,Sim,3,100x60,18
+P11,35,152,59,Não,Não,3,120x80,26
+P12,52,164,70,Não,Sim,3,12x180,26
+P13,52,174,109,Sim,Sim,Nenhum,140x80,36
+P14,44,155,57,Não,Sim,3,110x70,24
+P15,41,176,94,Não,Sim,1,120X80,30
+P17,70,173,69,MENOR,Sim,Nenhum,120X80,23
+P18,72,156,58,Menor,Sim,Nenhum,130x90,24
+P19,60,169,92,Sim,Não,1,120x80,32
+P20,39,179,81,Não,Sim,4 ou mais,120x80,25
+P21,20,157,64,Sim,Sim,Nenhum,100x70,26
+P22,29,190,86,Não,Não,2,120x70,24
+P23,23,167,60,Sim,Não,3,100x65,22
+P24,20,187,88,sim,sim,2,120x72,25
+P25,48,179,80,Sim,Sim,2,130x70,25
+P26,55,160,59,Não,Sim,Nenhum,110x70,23
+P27,66,175,77,Não,Sim,1,110x70,25
+P28,30,175,73,Não,Sim,1,110x70,24
+P29,60,171,78,Menor,Só café,2,140 x 90,27
+P30,59,160,71,Sim,Sim,3,110x80,28
+,30,180,63,Não,Não,3,130x80,19
+,27,169,65,É o meu peso certo ,Não,2,119x68,23
+,26,182,78,Sim,Não,4 ou mais,122x77,24
